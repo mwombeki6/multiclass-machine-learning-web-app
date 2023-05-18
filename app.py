@@ -92,10 +92,10 @@ def main():
        else:
            st.write(f"The severity prediction is slight injury")
         
-       st.write("Developed By: Avi kumar Talaviya")
-       st.markdown("""Reach out to me on: [Twitter](https://twitter.com/avikumart_) |
-       [Linkedin](https://www.linkedin.com/in/avi-kumar-talaviya-739153147/) |
-       [Kaggle](https://www.kaggle.com/avikumart) 
+       st.write("Developed By: Erick Mwombeki Lubere")
+       #st.markdown("""Reach out to me on: [Twitter](https://twitter.com/avikumart_) |
+       #[Linkedin](https://www.linkedin.com/in/avi-kumar-talaviya-739153147/) |
+       #[Kaggle](https://www.kaggle.com/avikumart) 
        """)
 
 
@@ -120,7 +120,7 @@ The task is to classify this variable based on the other 31 features step-by-ste
 The metric for evaluation will be f1-score
 """)
 
-st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/avikumart/Road-Traffic-Severity-Classification-Project)")          
+st.markdown("Please find GitHub repository link of project: [Click Here](https://github.com/mwombeki6/multiclass-machine-learning-web-app)")          
   
 # run the main function        
 if __name__ == '__main__':
